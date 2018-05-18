@@ -1,0 +1,4671 @@
+{
+  "headers": {
+    "dt": "j",
+    "mid": "6bee00130",
+    "sid": "0be264455abdb8926c9778d104ab89b9b75fa20db05b"
+  },
+  "code": 200,
+  "body": {
+    "values": [
+      {
+        "settings": {
+          "showOrgToAll": false
+        },
+        "nickPinyin": "qiao^hong12:09:59^min",
+        "ver": 8,
+        "numberType": 0,
+        "gender": "M",
+        "city": "上海",
+        "activeTime": 1421337600000,
+        "orgInfoStr": "{"
+        mainOrgAuthLevel
+        ":0,"
+        mainOrgAvatarFrame
+        ":"
+        @lALPBbCc1XerCM3M8Mzw
+        ","
+        mainOrgCorpId
+        ":"
+        ding3eeced8b336cf73a35c2f4657eb6378f
+        ","
+        mainOrgId
+        ":18253252,"
+        mainOrgName
+        ":"
+        GalaxyTeam
+        ","
+        mainOrgToken
+        ":"
+        d4fc1fa700e7becdf0ce7e45cf2b3d41
+        ","
+        orgIdList
+        ":[36209227,5067911,33096014,18253252]}",
+        "isActive": true,
+        "type": 0,
+        "isDataComplete": true,
+        "nick": "谯洪敏",
+        "avatarMediaId": "@lADPACOG81aNbVXMoMyg",
+        "uid": 476935,
+        "orgIdList": [
+          36209227,
+          5067911,
+          33096014,
+          18253252
+        ],
+        "name": "",
+        "status": 2
+      },
+      {
+        "settings": {
+          "showOrgToAll": false
+        },
+        "nickPinyin": "fu^li^she",
+        "ver": 11,
+        "extension": "{"
+        u_name_locale
+        ":"
+      {
+        \
+      "en_US\":\"EmployeePerks\",\"ja_JP\":\"社員特典\",\"zh_CN\":\"福利社\",\"zh_TW\":\"福利社\"}"
+      }
+      ","
+      gender
+      ":"
+      ","
+      city
+      ":"
+      ","
+      activeTime
+      ":1466871283000,"
+      orgInfoStr
+      ":"
+      {}
+      ","
+      isActive
+      ":true,"
+      type
+      ":2,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      福利社
+      ","
+      avatarMediaId
+      ":"
+      @lALOUWBw5cz2zPY
+      ","
+      uid
+      ":20993,"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      zhu
+      ^
+      shan
+      ^
+      shuo
+      ","
+      ver
+      ":2,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460722930000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          6809370
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      朱闪烁
+      ","
+      uid
+      ":44100004,"
+      orgIdList
+      ":[5067911,6809370],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京u5600嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      shen
+      ^
+      jia
+      ^
+      wei
+      ","
+      ver
+      ":3,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460954940000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      沈佳伟
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1U1dMNfNAdrNAuw
+      ","
+      uid
+      ":98018386,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      ding
+      ^
+      you
+      ","
+      ver
+      ":11,"
+      extension
+      ":"
+      {
+        "u_name_locale": "{\"en_US\":\"DingMail\",\"zh_TW\":\"釘郵\",\"ja_JP\":\"ネイル郵便\"}",
+        "scheme": "https://qr.dingtalk.com/page/maillist",
+        "type": "1"
+      }
+      ","
+      gender
+      ":"
+      ","
+      city
+      ":"
+      ","
+      activeTime
+      ":1417017600000,"
+      orgInfoStr
+      ":"
+      {}
+      ","
+      isActive
+      ":true,"
+      type
+      ":1,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      钉邮
+      ","
+      avatarMediaId
+      ":"
+      @lALPBbCc1Q6W--LMyMzI
+      ","
+      uid
+      ":165511,"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      guan
+      ^
+      fang
+      ","
+      ver
+      ":1,"
+      numberType
+      ":0,"
+      activeTime
+      ":1470024190000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      管芳
+      ","
+      uid
+      ":98013521,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      dai
+      ^
+      tai
+      ^
+      yong
+      ","
+      ver
+      ":14,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1829371576018,
+            "icon": "💬",
+            "id": 1,
+            "st": 1514011576018,
+            "status": "工作中"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1460612597000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XewIbbM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有u9650公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      戴太勇
+      ","
+      uid
+      ":98019153,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      li
+      ^
+      juan
+      ","
+      ver
+      ":7,"
+      extension
+      ":"
+      {
+        "ownness": []
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1480642227000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无u9650科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      李娟
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1VUVFRHNAu7NAu4
+      ","
+      uid
+      ":169051289,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科u6280发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      sun
+      ^
+      xu
+      ^
+      lu
+      ","
+      ver
+      ":2,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460641200000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      孙旭露
+      ","
+      uid
+      ":85655441,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀u5600无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      w
+      ^
+      e
+      ^
+      i
+      ^
+      f
+      ^
+      e
+      ^
+      n
+      ^
+      g
+      ","
+      ver
+      ":34,"
+      extension
+      ":"
+      {
+        "expireTag": {},
+        "ownness": [
+          {
+            "et": 1836543722627,
+            "icon": "🤗",
+            "id": 1,
+            "st": 1521183722627,
+            "status": "求Java活水和内推"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1460610910000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      weifeng
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1W56OzzNA3jNBNc
+      ","
+      uid
+      ":98020828,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      liu
+      ^
+      meng
+      ^
+      dan
+      ","
+      ver
+      ":3,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460613863000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展u6709限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      刘梦丹
+      ","
+      avatarMediaId
+      ":"
+      @lADOsXbcWs0C7s0C7g
+      ","
+      uid
+      ":98019164,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有u9650公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      gan
+      ^
+      yu
+      ","
+      ver
+      ":8,"
+      numberType
+      ":0,"
+      activeTime
+      ":1516685997000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XewIbbM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      甘雨
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1V5MnHnNAtjNAu4
+      ","
+      uid
+      ":89280860,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      he
+      ^
+      peng
+      ^
+      tao
+      ","
+      ver
+      ":3,"
+      numberType
+      ":0,"
+      activeTime
+      ":1491889388000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科u6280发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      贺u9E4F涛
+      ","
+      uid
+      ":230243244,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      fan
+      ^
+      ke
+      ","
+      ver
+      ":10,"
+      extension
+      ":"
+      {
+        "expireTag": {
+          "9": {
+            "end": "0123",
+            "level": 1,
+            "start": "0123"
+          }
+        },
+        "ownness": [
+          {
+            "et": 1819503251268,
+            "icon": "💬",
+            "id": 1,
+            "st": 1504143251268,
+            "status": "工作中"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      上海-浦东新
+      ","
+      activeTime
+      ":1421251200000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 0,
+        "mainOrgCorpId": "ding6c7964fb17ba33b235c2f4657eb6378f",
+        "mainOrgId": 13722289,
+        "mainOrgName": "为了部落",
+        "mainOrgToken": "6351eea8453573dedb927d2733d4ae88",
+        "orgIdList": [
+          35296015,
+          5067911,
+          18253252,
+          29834504,
+          13722289
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      范可
+      ","
+      avatarMediaId
+      ":"
+      @lADPACOG83czxxbNAszNAuw
+      ","
+      uid
+      ":445724,"
+      orgIdList
+      ":[35296015,5067911,18253252,29834504,13722289],"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      qin
+      ^
+      jun
+      ^
+      da
+      ","
+      ver
+      ":5,"
+      extension
+      ":"
+      {
+        "ownness": []
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      中国_江苏_南京
+      ","
+      activeTime
+      ":1460614871000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      秦俊达
+      ","
+      uid
+      ":98017356,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀u5600无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      gao
+      ^
+      chun
+      ^
+      lin
+      ","
+      ver
+      ":3,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460609365000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XexpEvM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有u9650公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      高春林
+      ","
+      uid
+      ":97009495,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      ding
+      ^
+      ding
+      ^
+      dian
+      ^
+      hua
+      ","
+      ver
+      ":13,"
+      extension
+      ":"
+      {
+        "u_name_locale": "{\"en_US\":\"DingTalkCall\",\"ja_JP\":\"DingTalk電話\",\"zh_CN\":\"钉钉电话\",\"zh_TW\":\"釘釘電話\"}",
+        "scheme": "https://qr.dingtalk.com/page/confenencelist",
+        "type": "3"
+      }
+      ","
+      gender
+      ":"
+      ","
+      city
+      ":"
+      ","
+      activeTime
+      ":1417017600000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 0,
+        "mainOrgCorpId": "ding414f3cee8db07470",
+        "mainOrgId": 3232226,
+        "mainOrgName": "骨头",
+        "mainOrgToken": "37ef4c90a9c6a7f4f3825709f45c913c",
+        "orgIdList": [
+          3232226,
+          2910538
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":1,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      钉钉电话
+      ","
+      avatarMediaId
+      ":"
+      @lALPBbCc1Q6W-9vMyMzI
+      ","
+      uid
+      ":164902,"
+      orgIdList
+      ":[3232226,2910538],"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      wang
+      ^
+      zhong
+      ^
+      jie
+      ","
+      ver
+      ":4,"
+      numberType
+      ":0,"
+      activeTime
+      ":1482376138000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XerCM3M8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有u9650公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      王忠杰
+      ","
+      uid
+      ":174195015,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":true},"
+      nickPinyin
+      ":"
+      zhou
+      ^
+      xiu
+      ^
+      jun
+      ","
+      ver
+      ":2,"
+      numberType
+      ":0,"
+      activeTime
+      ":1496741941000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无u9650科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      周秀军
+      ","
+      uid
+      ":214873320,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      nick
+      ":"
+      DING助手
+      ","
+      avatarMediaId
+      ":"
+      @lALPBbCc1TBEW07MyMzI
+      ","
+      uid
+      ":168717220,"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      D
+      ^
+      I
+      ^
+      N
+      ^
+      G
+      ^
+      zhu
+      ^
+      shou
+      ","
+      ver
+      ":4,"
+      extension
+      ":"
+      {
+        "u_name_locale": "{\"en_US\":\"DINGAssistant\",\"ja_JP\":\"DINGアシスタント\",\"zh_CN\":\"DING助手\",\"zh_TW\":\"DING助手\"}"
+      }
+      ","
+      name
+      ":"
+      ","
+      isActive
+      ":false,"
+      type
+      ":2,"
+      isDataComplete
+      ":true,"
+      status
+      ":1},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      li
+      ^
+      jiu
+      ^
+      wen
+      ","
+      ver
+      ":12,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1834715308484,
+            "icon": "✌",
+            "id": 1,
+            "st": 1519355308484,
+            "status": "工作ing"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      ","
+      activeTime
+      ":1447833013000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          418165
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      李久文
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1TiS3OLNAkjNAYA
+      ","
+      uid
+      ":10670098,"
+      orgIdList
+      ":[5067911,418165],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限u516C司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      wu
+      ^
+      jing
+      ","
+      ver
+      ":3,"
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      中国_上海_徐汇
+      ","
+      activeTime
+      ":1460611016000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          6062577
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      鄔晶
+      ","
+      uid
+      ":98025316,"
+      orgIdList
+      ":[5067911,6062577],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      lu
+      ^
+      qin
+      ^
+      yuan
+      ","
+      ver
+      ":11,"
+      numberType
+      ":0,"
+      activeTime
+      ":1458628378000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限u516C司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      卢沁元
+      ","
+      uid
+      ":8697264,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      zhao
+      ^
+      bo
+      ^
+      min
+      ","
+      ver
+      ":13,"
+      extension
+      ":"
+      {
+        "expireTag": {},
+        "ownness": []
+      }
+      ","
+      numberType
+      ":0,"
+      city
+      ":"
+      中国_上海_浦东新区
+      ","
+      activeTime
+      ":1460439745000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XexofbM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有u9650公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          39618057
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      赵柏敏
+      ","
+      avatarMediaId
+      ":"
+      @lADPACOG81G0yrvNApDNAuw
+      ","
+      uid
+      ":97114098,"
+      orgIdList
+      ":[5067911,39618057],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发u5C55有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      wang
+      ^
+      xiao
+      ^
+      qing
+      ","
+      ver
+      ":2,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460609181000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      王小清
+      ","
+      uid
+      ":1154602,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无u9650科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      zhang
+      ^
+      lu
+      ","
+      ver
+      ":6,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "st": 1505880068407,
+            "icon": "🐟",
+            "id": 1,
+            "et": 1821240068407,
+            "status": "=。="
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1460619534000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀u5600无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      张璐
+      ","
+      avatarMediaId
+      ":"
+      @lADOc6X8Hc0E2s0E2g
+      ","
+      uid
+      ":98018539,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无u9650科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      hu
+      ^
+      wen
+      ^
+      long
+      ","
+      ver
+      ":11,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1521820799999,
+            "ext": {
+              "orgId": 33128708
+            },
+            "icon": "🕗",
+            "id": 1521734400000,
+            "st": 1521734400000,
+            "status": "请假中(00:00-23:59)"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1494835396000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          23215121,
+          33128708
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      胡文龙
+      ","
+      uid
+      ":242176339,"
+      orgIdList
+      ":[5067911,23215121,33128708],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      H
+      ^
+      u
+      ^
+      x
+      ^
+      l
+      ^
+      e
+      ^
+      y
+      ^
+      Y
+      ^
+      a
+      ^
+      n
+      ^
+      g
+      ","
+      ver
+      ":5,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1829725470938,
+            "icon": "🎧",
+            "id": 1,
+            "st": 1514365470938,
+            "status": "听歌中"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      中国_浙江_杭u5DDE
+      ","
+      activeTime
+      ":1473658839000,"
+      orgInfoStr
+      ":"
+      {}
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      HuxleyYang
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1UQ1cdfNBVTNCAA
+      ","
+      uid
+      ":146818045,"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      yang
+      ^
+      ting
+      ","
+      ver
+      ":7,"
+      extension
+      ":"
+      {
+        "expireTag": {
+          "9": {
+            "end": "0728",
+            "level": 1,
+            "start": "0728"
+          }
+        },
+        "ownness": [
+          {
+            "et": 1817461710676,
+            "icon": "😷",
+            "id": 1,
+            "st": 1502101710676,
+            "status": "忙"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      F
+      ","
+      city
+      ":"
+      中国_上海_宝山
+      ","
+      activeTime
+      ":1493889864000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XbZxLXM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      杨婷
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1T1GWxDNAu7NAu4
+      ","
+      uid
+      ":5182576,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      zhang
+      ^
+      zong
+      ^
+      bi
+      ","
+      ver
+      ":2,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460611940000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XbZxLXM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀u5600无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      张宗碧
+      ","
+      uid
+      ":98013463,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展u6709限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      han
+      ^
+      bei
+      ","
+      ver
+      ":1,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460614761000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      韩贝
+      ","
+      uid
+      ":98022295,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限u79D1技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      tian
+      ^
+      feng
+      ","
+      ver
+      ":8,"
+      extension
+      ":"
+      {
+        "expireTag": {
+          "9": {
+            "end": "0913",
+            "level": 1,
+            "start": "0913"
+          }
+        }
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      中国_上u6D77_普陀
+      ","
+      activeTime
+      ":1460610184000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京u5600嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      田丰
+      ","
+      avatarMediaId
+      ":"
+      @lADOEMFUyc0Bkc0BkQ
+      ","
+      uid
+      ":98015892,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无u9650科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      ma
+      ^
+      qun
+      ^
+      jing
+      ","
+      ver
+      ":12,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1836970201980,
+            "icon": "💬",
+            "id": 1,
+            "st": 1521610201980,
+            "status": "工作u4E2D"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      activeTime
+      ":1431569538000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          36209227,
+          5067911,
+          702231,
+          39387095
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      马群晶
+      ","
+      uid
+      ":10857441,"
+      orgIdList
+      ":[36209227,5067911,702231,39387095],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      E
+      ^
+      P
+      ^
+      -
+      ^
+      lin
+      ^
+      zhong
+      ^
+      zhi
+      ","
+      ver
+      ":17,"
+      extension
+      ":"
+      {
+        "expireTag": {},
+        "ownness": []
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1460694144000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无u9650科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      EP-林重枝
+      ","
+      avatarMediaId
+      ":"
+      ","
+      uid
+      ":98024095,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展u6709限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      xiao
+      ^
+      neng
+      ^
+      ping
+      ^
+      tai
+      ^
+      -
+      ^
+      E
+      ^
+      P
+      ^
+      -
+      ^
+      wang
+      ^
+      yun
+      ^
+      bo
+      ^
+      -
+      ^
+      biao
+      ^
+      ge
+      ","
+      ver
+      ":19,"
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      北京-环球金融中心
+      ","
+      activeTime
+      ":1422002927000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XexofbM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          5046896,
+          415941
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      效能平台-EP-王蕴博-表哥
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1VRF41fNBETNBGI
+      ","
+      uid
+      ":755163,"
+      orgIdList
+      ":[5067911,5046896,415941],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有u9650公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      c
+      ^
+      l
+      ^
+      u
+      ^
+      c
+      ^
+      z
+      ","
+      ver
+      ":2,"
+      numberType
+      ":0,"
+      activeTime
+      ":1454486681000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 0,
+        "mainOrgCorpId": "dingcf6880c65684f4ff35c2f4657eb6378f",
+        "mainOrgId": 19255325,
+        "mainOrgName": "test",
+        "mainOrgToken": "2f71b3ee79b9eb7403fe50a21f6d5987",
+        "orgIdList": [
+          5067911,
+          19255325
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      clucz
+      ","
+      uid
+      ":69316337,"
+      orgIdList
+      ":[5067911,19255325],"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      dai
+      ^
+      zhen
+      ^
+      li
+      ","
+      ver
+      ":3,"
+      numberType
+      ":0,"
+      activeTime
+      ":1481771968000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限u516C司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      戴真理
+      ","
+      uid
+      ":24113470,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      yang
+      ^
+      cheng
+      ^
+      xiao
+      ","
+      ver
+      ":19,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1837395484341,
+            "icon": "✈️",
+            "id": 1,
+            "st": 1522035484341,
+            "status": "出差中，信息处理有限"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      u4E2D国_上海_普陀
+      ","
+      activeTime
+      ":1474258634000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      杨乘骁
+      ","
+      avatarMediaId
+      ":"
+      @lADPACOG81vCFEbNA0LNA0I
+      ","
+      uid
+      ":1261506,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      dong
+      ^
+      fang
+      ^
+      .
+      ","
+      ver
+      ":8,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460609413000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1Xezqb3M8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀u5600无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      東方.
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1YOoLkzNAjPNAyk
+      ","
+      uid
+      ":98019077,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀u65E0限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      li
+      ^
+      xiao
+      ^
+      dong
+      ","
+      ver
+      ":13,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1827552769112,
+            "icon": "💬",
+            "id": 1,
+            "st": 1512192769112,
+            "status": "coding"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      中国_上海_静安
+      ","
+      activeTime
+      ":1461055097000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XexpEvM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有u9650公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      李晓东
+      ","
+      avatarMediaId
+      ":"
+      @lADOcbOuD80BsM0BsA
+      ","
+      uid
+      ":96485909,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有u9650公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      yuan
+      ^
+      shuang
+      ","
+      ver
+      ":5,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460613448000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "u5317京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      苑爽
+      ","
+      avatarMediaId
+      ":"
+      @lADOlHg0eM0C7M0C7A
+      ","
+      uid
+      ":98017409,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀u5600无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      tan
+      ^
+      yi
+      ","
+      ver
+      ":7,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1837679429455,
+            "icon": "📅",
+            "id": 1,
+            "st": 1522319429455,
+            "status": "会u8BAE中"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1500522681000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XexofbM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          8356559
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      谈毅
+      ","
+      avatarMediaId
+      ":"
+      @lADPACOG814iPuvNAu7NAu4
+      ","
+      uid
+      ":127624001,"
+      orgIdList
+      ":[5067911,8356559],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      chou
+      ^
+      hai
+      ^
+      han
+      ","
+      ver
+      ":7,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1818294379640,
+            "icon": "💬",
+            "id": 1,
+            "st": 1502934379640,
+            "status": "工作中"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      上海-宝u5C71
+      ","
+      activeTime
+      ":1421643401000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1Xezqb3M8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          29986481,
+          4555343,
+          7735159,
+          236003
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      仇海汉
+      ","
+      avatarMediaId
+      ":"
+      @lADOACKVMc0CgM0CgA
+      ","
+      uid
+      ":702293,"
+      orgIdList
+      ":[5067911,29986481,4555343,7735159,236003],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      S
+      ^
+      a
+      ^
+      l
+      ^
+      l
+      ^
+      y
+      ","
+      ver
+      ":13,"
+      extension
+      ":"
+      {
+        "expireTag": {}
+      }
+      ","
+      numberType
+      ":0,"
+      city
+      ":"
+      中国_上海_黄浦
+      ","
+      activeTime
+      ":1446522247000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      Sally
+      ","
+      avatarMediaId
+      ":"
+      @lADO0-rZ-c0C7s0C7A
+      ","
+      uid
+      ":42974416,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      long
+      ^
+      yao
+      ^
+      kun
+      ","
+      ver
+      ":4,"
+      extension
+      ":"
+      {
+        "expireTag": {
+          "9": {
+            "end": "0121",
+            "level": 1,
+            "start": "0121"
+          }
+        }
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      中国_上海_浦东新区
+      ","
+      activeTime
+      ":1460610084000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      龙耀昆
+      ","
+      avatarMediaId
+      ":"
+      @lADOmwBiIc0C7s0C7g
+      ","
+      uid
+      ":98019124,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":true},"
+      nickPinyin
+      ":"
+      chen
+      ^
+      ying
+      ^
+      ying
+      ","
+      ver
+      ":2,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460612530000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀u5600无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          15067184,
+          6062577,
+          14985753
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      陈荧荧
+      ","
+      uid
+      ":98013875,"
+      orgIdList
+      ":[5067911,15067184,6062577,14985753],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀u5600无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      chen
+      ^
+      zhao
+      ^
+      yan
+      ","
+      ver
+      ":7,"
+      extension
+      ":"
+      {
+        "expireTag": {}
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1460613193000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      陈兆艳
+      ","
+      avatarMediaId
+      ":"
+      ","
+      uid
+      ":98017456,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      huang
+      ^
+      lu
+      ","
+      ver
+      ":8,"
+      extension
+      ":"
+      {
+        "expireTag": {}
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1460608814000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无u9650科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      黄璐
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1T-0rGTNBLnNBNc
+      ","
+      uid
+      ":44122445,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科u6280发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      yao
+      ^
+      feng
+      ","
+      ver
+      ":8,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "st": 1511144371213,
+            "icon": "✈️",
+            "id": 1,
+            "et": 1826504371213,
+            "status": "常联系uFF0C18911655434"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1452417709000,"
+      orgInfoStr
+      ":"
+      {}
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      姚峰
+      ","
+      avatarMediaId
+      ":"
+      @lADOeYinqs0C7s0C7g
+      ","
+      uid
+      ":60799347,"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      zhu
+      ^
+      yi
+      ^
+      guo
+      ","
+      ver
+      ":5,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460612587000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限u516C司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      朱仪国
+      ","
+      avatarMediaId
+      ":"
+      ","
+      uid
+      ":98011961,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      cheng
+      ^
+      min
+      ","
+      ver
+      ":5,"
+      extension
+      ":"
+      {
+        "expireTag": {
+          "9": {
+            "level": 1,
+            "start": "0830",
+            "end": "0830"
+          }
+        }
+      }
+      ","
+      numberType
+      ":0,"
+      gender
+      ":"
+      F
+      ","
+      city
+      ":"
+      中国_北京_海淀
+      ","
+      activeTime
+      ":1460710280000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XexofbM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      程敏
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1U4leOjNBNrNBNo
+      ","
+      uid
+      ":98015416,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限u79D1技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      chen
+      ^
+      yu
+      ^
+      (
+      ^
+      xin
+      ^
+      xiang
+      ^
+      mu
+      ^
+      jie
+      ^
+      ru
+      ^
+      dan
+      ^
+      xing
+      ^
+      yun
+      ^
+      qing
+      ^
+      ti
+      ^
+      qian
+      ^
+      yi
+      ^
+      zhou
+      ^
+      )
+      ","
+      ver
+      ":15,"
+      extension
+      ":"
+      {
+        "ownness": [
+          {
+            "et": 1833699556474,
+            "icon": "💬",
+            "id": 1,
+            "st": 1518339556474,
+            "status": "17625788861"
+          }
+        ]
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1461204113000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911,
+          553118
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      陈昱(新项目接入弹性云请提前一周)
+      ","
+      avatarMediaId
+      ":"
+      @lADOis9mlszDzMM
+      ","
+      uid
+      ":8097803,"
+      orgIdList
+      ":[5067911,553118],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有u9650公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      xi
+      ^
+      ling
+      ^
+      ran
+      ","
+      ver
+      ":8,"
+      extension
+      ":"
+      {
+        "expireTag": {}
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1462433801000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      奚凌然
+      ","
+      avatarMediaId
+      ":"
+      @lADOxFMZp80C7s0C7g
+      ","
+      uid
+      ":107643291,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      wei
+      ^
+      lei
+      ^
+      zhe
+      ","
+      ver
+      ":12,"
+      extension
+      ":"
+      {
+        "ownness": []
+      }
+      ","
+      numberType
+      ":0,"
+      activeTime
+      ":1493970620000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      u9B4F磊哲
+      ","
+      avatarMediaId
+      ":"
+      @lADPBbCc1WWnvF7NAcLNAlg
+      ","
+      uid
+      ":21851198,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科u6280发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      ding
+      ^
+      ding
+      ^
+      yun
+      ^
+      dong
+      ","
+      ver
+      ":6,"
+      extension
+      ":"
+      {
+        "u_name_locale": "{\"en_US\":\"DingFitness\",\"ja_JP\":\"DingTalk運動\",\"zh_CN\":\"钉u9489运动\",\"zh_TW\":\"釘釘運動\"}"
+      }
+      ","
+      gender
+      ":"
+      ","
+      city
+      ":"
+      ","
+      activeTime
+      ":1488802116000,"
+      orgInfoStr
+      ":"
+      {}
+      ","
+      isActive
+      ":true,"
+      type
+      ":2,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      u9489钉运动
+      ","
+      avatarMediaId
+      ":"
+      @lALOryfddM0CgM0CgA
+      ","
+      uid
+      ":20981,"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      zhu
+      ^
+      gong
+      ^
+      rui
+      ","
+      ver
+      ":1,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460612070000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无u9650科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      朱贡睿
+      ","
+      uid
+      ":98023586,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      tian
+      ^
+      yu
+      ","
+      ver
+      ":4,"
+      numberType
+      ":0,"
+      activeTime
+      ":1440427407000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XexpEvM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      田宇
+      ","
+      uid
+      ":29174469,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      ding
+      ^
+      ding
+      ^
+      xiao
+      ^
+      mi
+      ^
+      shu
+      ","
+      ver
+      ":15,"
+      extension
+      ":"
+      {
+        "u_name_locale": "{\"en_US\":\"DingAssistant\",\"ja_JP\":\"DingTalkアシスタント\",\"zh_CN\":\"钉钉小秘书\",\"zh_TW\":\"釘釘小秘書\"}"
+      }
+      ","
+      gender
+      ":"
+      M
+      ","
+      city
+      ":"
+      浙江杭州
+      ","
+      activeTime
+      ":1421742233000,"
+      orgInfoStr
+      ":"
+      {}
+      ","
+      isActive
+      ":true,"
+      type
+      ":2,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      钉钉小秘书
+      ","
+      avatarMediaId
+      ":"
+      @lALPBbCc1XuaP_rNAljNAlg
+      ","
+      uid
+      ":237050,"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      hong
+      ^
+      bao
+      ^
+      zhu
+      ^
+      shou
+      ","
+      ver
+      ":7,"
+      extension
+      ":"
+      {
+        "u_name_locale": "{\"en_US\":\"LuckyMoneyAssistant\",\"ja_JP\":\"レッドポケットアシスタント\",\"zh_CN\":\"红包助手\",\"zh_TW\":\"紅包助手\"}"
+      }
+      ","
+      gender
+      ":"
+      ","
+      city
+      ":"
+      ","
+      activeTime
+      ":1481532756000,"
+      orgInfoStr
+      ":"
+      {}
+      ","
+      isActive
+      ":true,"
+      type
+      ":1,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      红包助手
+      ","
+      avatarMediaId
+      ":"
+      @lALPBbCc1Q6W--DMyMzI
+      ","
+      uid
+      ":20986,"
+      name
+      ":"
+      ","
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      li
+      ^
+      si
+      ^
+      yao
+      ","
+      ver
+      ":1,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460613674000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展u6709限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      李斯尧
+      ","
+      uid
+      ":98022188,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      wu
+      ^
+      yan
+      ^
+      ling
+      ","
+      ver
+      ":5,"
+      numberType
+      ":0,"
+      activeTime
+      ":1460619629000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgAvatarFrame": "@lALPBbCc1XexpEvM8Mzw",
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限公司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      武艳龄
+      ","
+      avatarMediaId
+      ":"
+      @lADOGAMmWM0E2s0E1w
+      ","
+      uid
+      ":748278,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2},{"
+      settings
+      ":{"
+      showOrgToAll
+      ":false},"
+      nickPinyin
+      ":"
+      yang
+      ^
+      yong
+      ^
+      le
+      ","
+      ver
+      ":3,"
+      numberType
+      ":0,"
+      activeTime
+      ":1501756122000,"
+      orgInfoStr
+      ":"
+      {
+        "mainOrgAuthLevel": 1,
+        "mainOrgCorpId": "dinga0d6d5259b119b3c",
+        "mainOrgId": 5067911,
+        "mainOrgName": "北京嘀嘀无限科技发展有限u516C司",
+        "mainOrgToken": "f7435edf841e6cbfc88d187ecb8c2411",
+        "orgIdList": [
+          5067911
+        ]
+      }
+      ","
+      isActive
+      ":true,"
+      type
+      ":0,"
+      isDataComplete
+      ":true,"
+      nick
+      ":"
+      杨永乐
+      ","
+      uid
+      ":159434237,"
+      orgIdList
+      ":[5067911],"
+      name
+      ":"
+      ","
+      orgInfo
+      ":{"
+      orgName
+      ":"
+      北京嘀嘀无限科技发展有限公司
+      ","
+      corpId
+      ":"
+      dinga0d6d5259b119b3c
+      ","
+      authLevel
+      ":1,"
+      orgId
+      ":5067911,"
+      token
+      ":"
+      f7435edf841e6cbfc88d187ecb8c2411
+      "},"
+      status
+      ":2}]}}
